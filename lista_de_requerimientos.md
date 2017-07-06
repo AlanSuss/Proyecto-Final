@@ -1,8 +1,8 @@
 ***Proyecto***
 
-**Requerimiento del Sistema**
+***Requerimiento del Sistema***
 
-""Registrar datos de preinscripción""
+**Registrar datos de preinscripción**
 
 1- El sistema solicitará al visitante que llene formulario de preinscripción.
 1.1 El sistema solicitará que se ingresen datos particulares.
@@ -10,7 +10,7 @@
 2- El sistema enviará un correo electrónico al solicitante con información del pan de estudio de la carrera y sus incumbencias, datos del instituto y requisitos para la inscripción. 
 
 
-""Generar la inscripción a mesas de examen""
+**Generar la inscripción a mesas de examen**
 
 1- El sistema solicitará usuario y contraseña
 2- El sistema validará los datos de logueo
@@ -24,6 +24,6 @@
 6- El sistema generará la inscripción correspondiente.
 7- El sistema enviara un correo electrónico al estudiante con el comprobante de la inscripción
 
-""Roles y servicios""
+**Roles y servicios**
 
 1- El sistema definirá usuarios, permisos, roles.
