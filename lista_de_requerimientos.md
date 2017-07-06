@@ -4,10 +4,10 @@
 
 **Registrar datos de preinscripción**
 
-1- El sistema solicitará al visitante que llene formulario de preinscripción.
+1. El sistema solicitará al visitante que llene formulario de preinscripción.
 1.1 El sistema solicitará que se ingresen datos particulares.
 1.2 El sistema validará los datos ingresados.
-2- El sistema enviará un correo electrónico al solicitante con información del pan de estudio de la carrera y sus incumbencias, datos del instituto y requisitos para la inscripción. 
+2. El sistema enviará un correo electrónico al solicitante con información del pan de estudio de la carrera y sus incumbencias, datos del instituto y requisitos para la inscripción. 
 
 
 **Generar la inscripción a mesas de examen**
